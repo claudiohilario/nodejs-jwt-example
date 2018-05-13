@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-jwt-example",
+  "version": "1.0.0",
+  "description": "Example using jwt with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudiohilario/nodejs-jwt-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claudiohilario/nodejs-jwt-example/issues"
+  },
+  "homepage": "https://github.com/claudiohilario/nodejs-jwt-example#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.2.1",
+    "mongodb": "^3.1.0-beta4",
+    "morgan": "^1.9.0"
+  }
+}
